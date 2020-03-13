@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+function redirectPage() {
+
+	window.location="https://www.google.com/";
+	
+}
+document.write("Redirected");
+setTimeout('redirectPage()' ,40000);
+
+</script>
+
+</head>
+<body>
+
+</body>
+</html>

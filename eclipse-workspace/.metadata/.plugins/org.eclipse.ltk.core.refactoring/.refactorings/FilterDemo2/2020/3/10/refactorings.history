@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FilterDemo2/WebContent/Welcome.html&apos; to &apos;login.html&apos;" description="Rename resource &apos;Welcome.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Welcome.html" name="login.html" stamp="1583559239198" updateReferences="true"/>
+</session>

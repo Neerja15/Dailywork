@@ -1,0 +1,16 @@
+package cognizant;
+
+class Cons
+{
+	public int i;
+	public Cons(int i)
+	{
+		this.i=i;
+		
+	}
+public static void main(String[] args) {
+	Cons a1=new Cons(334);
+	Cons a2=null;
+	System.out.println(a2.i );
+}
+}

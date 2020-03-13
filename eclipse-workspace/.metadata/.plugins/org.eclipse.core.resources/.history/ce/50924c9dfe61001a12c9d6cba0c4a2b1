@@ -1,0 +1,13 @@
+<taglib>
+<tlib></tlib>
+<jsp-version></jsp-version>
+
+<tag>
+<name>printDate</name>
+<tag-class></tag-class>
+</tag>
+
+
+
+
+</taglib>
